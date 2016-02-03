@@ -1,3 +1,6 @@
+## This project has been manually tranferred to 
+## https://github.com/NonVolatileComputing/Mnemonic
+
 bdmem: Big Data Memory Library
 ================================
 
